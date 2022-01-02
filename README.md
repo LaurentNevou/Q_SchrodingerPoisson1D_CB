@@ -1,6 +1,8 @@
 # Q_SchrodingerPoisson1D_CB
 Full Schrodinger-Poisson solver in 1D in the conduction band
 
+![Results_InGaAs-AlInAs_300K](https://user-images.githubusercontent.com/35040499/147890985-b855b9c5-e2d3-4f99-a411-0dfa9527cf16.PNG)
+
 This program solves the Schrodinger-Poisson equation in the conduction band for any heterostructures.
 
 2 versions are available:
