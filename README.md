@@ -11,6 +11,7 @@ This program solves the Schrodinger-Poisson equations in the conduction band for
 
 Both models follow the book of Paul Harrison and actually makes the 2d density of states not constant
 https://onlinelibrary.wiley.com/doi/book/10.1002/9781118923337
+
 DOI:10.1002/9781118923337
 
 A strain model is included. It basically shifts the conduction band edge
@@ -18,7 +19,7 @@ The strain is mainly interesting for InGaAs/GaAs heterostructures
 The non-parabolicity is also included into the density of states for the Poisson solver.
 
 -> Additionnal material can be added in the "materialDB_ZB.csv" file
--> II-VI and cubic nitride material parameters are available but should
-be grabt in the "Library.m" file
+
+-> II-VI and cubic nitride material parameters are available but should be grabt in the "Library.m" file
 
 Enjoy! If you like it, don t forget the star!
